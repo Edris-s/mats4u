@@ -1,5 +1,5 @@
 body {
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 .title {
@@ -7,7 +7,7 @@ body {
 }
 
 #do-you-think {
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Ubuntu', sans-serif;
     font-size: 3rem;
     line-height: 1.5;
 }
@@ -18,11 +18,11 @@ body {
 
 #navbarr {
     padding: 0 0 5%;
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 .navbar-brand {
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Ubuntu', sans-serif;
     font-weight: bold;
 }
 
@@ -55,7 +55,7 @@ body {
 }
 
 .feature-box h3 {
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Ubuntu', sans-serif;
     padding-top: 30px;
 }
 
@@ -81,7 +81,7 @@ body {
 }
 
 #testimonials h2 {
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Ubuntu', sans-serif;
     font-weight: bold;
     line-height: 1.5;
 }
@@ -108,7 +108,7 @@ body {
 #classes {
     padding: 7% 15%;
     text-align: center;
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 .row {
@@ -129,7 +129,7 @@ body {
 }
 
 #before-last h2 {
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Ubuntu', sans-serif;
     padding-bottom: 3%;
 }
 
